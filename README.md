@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+Links:
+
+- [Personal Site](https://jwmza.com)
+- [Studio](https://6ly.ca)
+
+### Projects
+
+- [Polymath - markup language](https://jwmza.com/polymath)
 
 <!--
 **jwmza/jwmza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
